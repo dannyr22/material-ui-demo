@@ -23,13 +23,13 @@ const App = () => {
               Photo Album
             </Typography>
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
-              Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident reprehenderit modi blanditiis, dolorum eaque fugit.
+              Provident reprehenderit modi blanditiis, dolorum eaque fugit.
             </Typography>
             <div className={classes.button}>
-              <Grid container spacing={2} justify="center">
+              <Grid container spacing={4} justify="center">
                 <Grid item>
                   <Button variant="contained" color="primary">
-                    See my photos
+                    Photos
                   </Button>
                 </Grid>
                 <Grid item>
